@@ -1,4 +1,5 @@
 /*
+	GitTestBranch changes
 	File name:	Dog.cs 
 	Purpose:	Class to describe pet dog
 	Author:		Luke Wait
