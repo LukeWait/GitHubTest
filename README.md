@@ -1,4 +1,6 @@
 # Dog class and Dog test read me 
+# Author: Luke Wait
+
 Data:
 string name (owner's name for the dog)
 string type (e.g. Bulldog, Collie, Fox Terrier)
